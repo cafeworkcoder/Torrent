@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+android-library
+libtorrent/libtorrent.aar
+app/src/main/assets/*.dex
